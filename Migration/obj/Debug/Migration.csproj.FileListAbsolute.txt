@@ -1,0 +1,16 @@
+C:\Users\СадыковаА\source\repos\Migration\Migration\bin\Debug\Migration.exe.config
+C:\Users\СадыковаА\source\repos\Migration\Migration\bin\Debug\Migration.exe
+C:\Users\СадыковаА\source\repos\Migration\Migration\bin\Debug\Migration.pdb
+C:\Users\СадыковаА\source\repos\Migration\Migration\bin\Debug\EntityFramework.dll
+C:\Users\СадыковаА\source\repos\Migration\Migration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\СадыковаА\source\repos\Migration\Migration\bin\Debug\EntityFramework.xml
+C:\Users\СадыковаА\source\repos\Migration\Migration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\СадыковаА\source\repos\Migration\Migration\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\СадыковаА\source\repos\Migration\Migration\obj\Debug\Migration.csprojResolveAssemblyReference.cache
+C:\Users\СадыковаА\source\repos\Migration\Migration\obj\Debug\Migration.csproj.CoreCompileInputs.cache
+C:\Users\СадыковаА\source\repos\Migration\Migration\obj\Debug\Migration.csproj.CopyComplete
+C:\Users\СадыковаА\source\repos\Migration\Migration\obj\Debug\Migration.exe
+C:\Users\СадыковаА\source\repos\Migration\Migration\obj\Debug\Migration.pdb
+C:\Users\СадыковаА\source\repos\Migration\Migration\obj\Debug\Migration.Migrations.AddedBooksReview.resources
+C:\Users\СадыковаА\source\repos\Migration\Migration\obj\Debug\Migration.csproj.GenerateResource.cache
+C:\Users\СадыковаА\source\repos\Migration\Migration\obj\Debug\Migration.Migrations.Delaiveris.resources
